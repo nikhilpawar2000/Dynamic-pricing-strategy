@@ -1,0 +1,1 @@
+DYnamic Pricing Stratigy
